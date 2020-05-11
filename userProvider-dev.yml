@@ -1,0 +1,4 @@
+eureka:
+  instance:
+    metadata-map:
+      my-metadata: user自定义元数据
